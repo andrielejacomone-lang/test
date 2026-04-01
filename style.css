@@ -1,0 +1,81 @@
+/* Configuração geral */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+/* Títulos */
+h1 {
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 5px;
+}
+
+h2 {
+    color: #34495e;
+    margin-top: 20px;
+}
+
+h3 {
+    color: #555;
+}
+
+/* Listas */
+ul, ol {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+/* Itens da lista */
+li {
+    margin-bottom: 5px;
+}
+
+/* Parágrafos */
+p {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+/* Links */
+a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #1d6fa5;
+    text-decoration: underline;
+}
+
+/* Imagens */
+img {
+    display: block;
+    margin: 10px 0;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Linha separadora */
+hr {
+    border: none;
+    height: 2px;
+    background-color: #3498db;
+    margin: 30px 0;
+}
+
+/* Destaque do convite */
+h1:last-of-type {
+    color: #e74c3c;
+    text-align: center;
+}
+
+h2:last-of-type {
+    text-align: center;
+}
