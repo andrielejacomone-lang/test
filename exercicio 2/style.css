@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+/* Títulos */
+h1 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+}
+
+h2 {
+    color: #34495e;
+    margin-top: 20px;
+}
+
+h3 {
+    color: #555;
+}
+
+h4 {
+    color: #777;
+}
+
+/* Parágrafos */
+p {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+/* Linha horizontal */
+hr {
+    border: none;
+    height: 2px;
+    background-color: #3498db;
+    margin: 30px 0;
+}
