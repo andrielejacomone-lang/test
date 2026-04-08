@@ -1,0 +1,31 @@
+/* 3. Todos os títulos de cores com font-weight normal */
+.color-title {
+  font-weight: normal;
+}
+
+/* 2. Cores correspondentes usando ID */
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#orange {
+  color: orange;
+}
+
+#green {
+  color: green;
+}
+
+#yellow {
+  color: yellow;
+}
+
+/* 4. Todas as imagens com 200x200 */
+img {
+  height: 200px;
+  width: 200px;
+}
