@@ -1,0 +1,24 @@
+/* TODO 5: seletor universal */
+* {
+  text-align: center;
+}
+
+/* TODO 1: todos os parágrafos */
+p {
+  color: red;
+}
+
+/* TODO 2: classe "note" */
+.note {
+  font-size: 20px;
+}
+
+/* TODO 3: id "id-selector-demo" */
+#id-selector-demo {
+  color: green;
+}
+
+/* TODO 4: li com atributo value="4" */
+li[value="4"] {
+  color: blue;
+}
