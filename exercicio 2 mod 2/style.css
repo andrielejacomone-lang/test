@@ -1,0 +1,32 @@
+/* Fonte do Google (Caveat) */
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400&display=swap');
+
+/* 6. Fonte raiz */
+html {
+  font-size: 30px;
+}
+
+/* 1. Color */
+p:nth-of-type(1) {
+  color: coral;
+}
+
+/* 2. Font Size */
+p:nth-of-type(2) {
+  font-size: 2rem;
+}
+
+/* 3. Font Weight */
+p:nth-of-type(3) {
+  font-weight: 900;
+}
+
+/* 4. Font Family */
+p:nth-of-type(4) {
+  font-family: 'Caveat', cursive;
+}
+
+/* 5. Text Align */
+p:nth-of-type(5) {
+  text-align: right;
+}
