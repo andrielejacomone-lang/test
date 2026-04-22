@@ -1,0 +1,16 @@
+/* 1. Fundo da página */
+body {
+  background-color: antiquewhite;
+}
+
+/* 2 e 3. h1 */
+h1 {
+  color: whitesmoke;
+  background-color: darkseagreen;
+}
+
+/* 4 e 5. h2 */
+h2 {
+  color: #FAF8F1;
+  background-color: #C58940;
+}
