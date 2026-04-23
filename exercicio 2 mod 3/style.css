@@ -1,0 +1,24 @@
+/* 1. Group selector (h1 e h2) */
+h1, h2 {
+  color: blueviolet;
+}
+
+/* 2. Child selector (primeiro parágrafo) */
+div > p {
+  color: firebrick;
+}
+
+/* 3. Descendant selector (itens da lista) */
+.list li {
+  color: blue;
+}
+
+/* 4. Chaining selector (itens com classe done) */
+li.done {
+  color: seagreen;
+}
+
+/* 5. Outras Opções */
+ul > p {
+  font-size: 0.5rem;
+}
