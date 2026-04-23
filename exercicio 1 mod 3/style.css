@@ -1,0 +1,36 @@
+/* CSS inicial (não alterar) */
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+/* ========================= */
+/* SEU CSS (ADICIONADO) */
+/* ========================= */
+
+/* borda roxa em TODAS as caixas */
+.box {
+  border: 10px solid purple;
+  margin: 10px;
+}
+
+/* caixa interna com fundo diferente */
+.inner-box {
+  background-color: red;
+}
+
+/* texto branco usando classe */
+.white-text {
+  color: white;
+}
+
+/* usando ID (maior prioridade) */
+#outer-box {
+  background-color: purple;
+}
