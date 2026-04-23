@@ -1,0 +1,34 @@
+/* Todas as caixas */
+div {
+  width: 200px;
+  height: 200px;
+}
+
+/* 1ª caixa */
+.box1 {
+  background-color: cadetblue;
+  padding: 20px;
+  border: 10px solid black;
+}
+
+/* Remove margem do texto */
+.box1 p {
+  margin: 0;
+}
+
+/* 2ª caixa */
+.box2 {
+  background-color: gold;
+  border-top: 20px solid black;
+  border-bottom: 20px solid black;
+  border-left: 10px solid black;
+  border-right: 10px solid black;
+  margin-left: 260px;
+}
+
+/* 3ª caixa */
+.box3 {
+  background-color: indianred;
+  border: 10px solid black;
+  margin-left: 480px;
+}
