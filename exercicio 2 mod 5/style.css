@@ -1,0 +1,21 @@
+/* imagem do gato à esquerda */
+.gato img {
+  float: left;
+  margin-right: 100x;
+}
+
+/* imagem do cachorro à direita */
+.dog img {
+  float: right;
+  margin-left: 10px;
+}
+
+/* garante que as caixas não quebrem */
+.cat, .dog {
+  overflow: auto;
+}
+
+/* footer embaixo */
+footer {
+  clear: both;
+}
