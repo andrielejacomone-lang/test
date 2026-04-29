@@ -1,0 +1,32 @@
+/* padrão (caso não entre em nenhuma media) */
+body {
+  background-color: white;
+}
+
+/* 📱 Celulares */
+@media (min-width: 319px) and (max-width: 480px) {
+  body {
+    background-color: lightsalmon;
+  }
+}
+
+/* 📱💻 Tablets */
+@media (min-width: 481px) and (max-width: 1200px) {
+  body {
+    background-color: powderblue;
+  }
+}
+
+/* 💻 Laptops */
+@media (min-width: 1201px) and (max-width: 1600px) {
+  body {
+    background-color: limegreen;
+  }
+}
+
+/* 🖥️ Desktops */
+@media (min-width: 1601px) {
+  body {
+    background-color: seagreen;
+  }
+}
